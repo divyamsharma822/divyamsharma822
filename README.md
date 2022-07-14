@@ -1,5 +1,14 @@
-### Hi there 👋, my name is Divyam Sharma
-#### I am Full Stack web developer.
+### Hi there 👋
+
+## I am Divyam Sharma.
+
+
+- 🔭 I’m currently working on MERN Applications
+- 🌱 I’m currently exploring JavaScript more deeply.
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with web3.0.
+- 💬 Ask me about Web Development, UI/UX Designs.
+
 
 Skills: MERN / FIREBASE / GRAPHQL / REST API / HTML / CSS /  JS
 
