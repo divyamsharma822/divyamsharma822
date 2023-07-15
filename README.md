@@ -2,11 +2,8 @@
 ## I am Divyam Sharma.
 
 
-- 🔭 I’m currently working on MERN Applications
-- 🌱 I’m currently exploring JavaScript more deeply.
+- 🔭 I’m currently working on Full Stack Apps
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with web3.0.
-- 💬 Ask me about Web Development, UI/UX Designs.
 
 
 ## Technologies  
