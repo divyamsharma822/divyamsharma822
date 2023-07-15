@@ -8,10 +8,10 @@
 
 ## Technologies  
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,ts,babel,java,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,ts,java,cpp)]()
 
 ### Front-end Frameworks & libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux,pug)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux)]()
 
 ### Back-end Frameworks & libraries
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,prisma)]()
