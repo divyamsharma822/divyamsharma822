@@ -24,9 +24,3 @@
 
 ### Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,webpack,git,github,vite)]()
-
-
-##
-### Connect with Me :
-
-[<img src="https://skillicons.dev/icons?i=linkedin" width="3.5%"/>](https://twitter.com/divyam_dz)
