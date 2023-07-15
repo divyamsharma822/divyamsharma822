@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ## I am Divyam Sharma.
 
 
@@ -10,13 +9,27 @@
 - 💬 Ask me about Web Development, UI/UX Designs.
 
 
-Skills: MERN / FIREBASE / GRAPHQL / REST API / HTML / CSS /  JS
+## Technologies  
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,ts,babel,java,cpp)]()
 
+### Front-end Frameworks & libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux,pug)]()
 
+### Back-end Frameworks & libraries
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,prisma)]()
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase,)]()
+
+### Deployment
+[![My Skills](https://skillicons.dev/icons?i=netlify,heroku,planetscale,vercel,codepen)]()
+
+### Tools & Others
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,webpack,git,github,vite)]()
 
 
 ##
 ### Connect with Me :
 
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://twitter.com/divyam_dz)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/divyamsharma822/)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="3.5%"/>](https://twitter.com/divyam_dz)
