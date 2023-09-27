@@ -5,6 +5,9 @@
 - 🔭 I’m currently working on MERN with AWS
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+## DevOps
+- AWS( CodeBuild, Codedeploy, CodePipeline, S3, ECS, Route 53, EC2, CloudFront)
+- Jenkins & Ansible
 
 ## Technologies  
 ### Languages
