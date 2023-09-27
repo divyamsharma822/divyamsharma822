@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase,)]()
 
 ### Deployment
-[![My Skills](https://skillicons.dev/icons?i=netlify,heroku,planetscale,vercel,codepen)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,netlify,heroku,planetscale,vercel,codepen)]()
 
 ### Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,webpack,git,github,vite)]()
