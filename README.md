@@ -2,7 +2,7 @@
 ## I am Divyam Sharma.
 
 
-- 🔭 I’m currently working on Full Stack Apps
+- 🔭 I’m currently working on MERN with AWS
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 
