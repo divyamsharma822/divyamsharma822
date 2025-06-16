@@ -2,28 +2,42 @@
 ## I am Divyam Sharma.
 https://bento.me/divyamsharma
 
-- 🔭 I’m currently working on MERN with AWS
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I’m currently working on MERN with AI
+- 👯 I’m looking to collaborate on **Startup Projects**
 
-## DevOps
-- AWS( CodeBuild, Codedeploy, CodePipeline, S3, ECS, Route 53, EC2, CloudFront)
-- Jenkins & Ansible
+<br>
+
+## 🛠️ Skills
+
+| Category               | Technologies                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| **AWS Services**       | CodeBuild, CodeDeploy, CodePipeline, S3, ECS, EC2, Route 53, CloudFront      |
+| **CI/CD & Tools**      | Jenkins, Docker, Netlify, Vercel, Heroku, CodePen, Planetscale               |
+| **Frontend**           | React.js, Next.js, Tailwind CSS, ShadCN, Bootstrap, Material UI, Redux, Redux Toolkit, React Query |
+| **AI / ML**            | PyTorch, Scikit-learn, OpenCV                                                |
+| **Backend**            | Node.js, Express.js, Firebase, Prisma, RabbitMQ, Nginx                       |
+| **Databases**          | MongoDB, MySQL, Redis, SQLite                                                |
+
+<br>
 
 ## Technologies  
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,ts,java)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,ts,py)]()
 
-### Front-end Frameworks & libraries
+### AI/ML Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)]()
+
+### Front-end Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux)]()
 
-### Back-end Frameworks & libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,prisma)]()
+### Back-end Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,prisma,rabbitmq,nginx)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase,)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase)]()
 
 ### Deployment
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify,heroku,planetscale,vercel,codepen)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,netlify,heroku,planetscale,vercel,codepen,docker,jenkins)]()
 
 ### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,webpack,git,github,vite)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,webpack,git,github,vite,figma,notion)]()
