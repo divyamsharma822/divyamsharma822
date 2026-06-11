@@ -19,8 +19,8 @@ A business-focused website with integrated real estate listing management, allow
 
 ---
 
-### 3. Almwjht — Company Website for Real Estate
-A modern real estate company website built to present services, featured listings, and land/property opportunities with a clean and user-friendly experience.
+### 3. Almwjht — IT Company based in Dubai
+Originally a Dubai-based real estate firm, Almwjht transitioned into an IT company to expand into digital services and modern solutions. I built a corporate website that reflects this transformation — presenting IT services, project showcases, and technology-driven offerings with a clean, user-friendly experience.
 
 🔗 Live: [almwjht.com](https://almwjht.com/)
 
