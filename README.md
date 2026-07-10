@@ -1,4 +1,6 @@
 # Hi, I'm Divyam Sharma
+**Founder @ [Fourangled Studio](https://fourangled.com)**  
+
 An all-round Full-Stack Developer focused on web, AI, backend architecture, and cloud infrastructure.
 
 <br>
