@@ -58,14 +58,15 @@ A professional company website built to showcase agricultural services, business
 
 ## 🛠️ Skills
 
-| Category               | Technologies                                                                 |
-|------------------------|------------------------------------------------------------------------------|
-| **AWS Services**       | CodeBuild, CodeDeploy, CodePipeline, S3, ECS, EC2, Route 53, CloudFront      |
-| **CI/CD & Tools**      | Jenkins, Docker, Netlify, Vercel, Heroku, CodePen, Planetscale               |
-| **Frontend**           | React.js, Next.js, Tailwind CSS, ShadCN, Bootstrap, Material UI, Redux, Redux Toolkit, React Query |
-| **AI / ML**            | PyTorch, Scikit-learn, OpenCV                                                |
-| **Backend**            | Node.js, Express.js, Firebase, Prisma, RabbitMQ, Nginx                       |
-| **Databases**          | MongoDB, MySQL, Redis, SQLite                                                |
+| **Category**           | **Technologies & Focus Areas**                                                                 |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| **Cloud & Infra**      | AWS (ECS, EC2, S3, Route 53, CloudFront), DigitalOcean, Netlify, Vercel, VPS — multi‑node deployments, container orchestration, edge delivery |
+| **CI/CD**              | Dokploy, CodeBuild, CodeDeploy, CodePipeline, Docker, GitHub Actions — automated pipelines, zero‑downtime rollouts, blue‑green & canary strategies |
+| **Frontend**           | React.js, Next.js, Tailwind CSS, ShadCN, Material UI, Redux Toolkit, React Query — SSR/ISR, scalable component systems, design‑to‑dev workflows |
+| **AI / ML**            | PyTorch, Scikit‑learn, OpenCV — applied ML pipelines, model deployment, inference optimization |
+| **Backend**            | Node.js, Typescript, Express.js, Firebase, Prisma, RabbitMQ, Nginx — event‑driven architecture, API gateways |
+| **Databases**          | PostgreSQL, TimescaleDB, MongoDB, Redis, MySQL — time‑series analytics, high‑throughput queries, caching, replication strategies |
+
 
 <br>
 
@@ -86,7 +87,7 @@ A professional company website built to showcase agricultural services, business
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase)]()
 
 ### Deployment
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify,heroku,planetscale,vercel,codepen,docker,jenkins)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,netlify,heroku,planetscale,vercel,codepen,docker)]()
 
 ### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,webpack,git,github,vite,figma,notion)]()
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,vscode,postman,webpack,git,github,vite,figma,notion)]()
