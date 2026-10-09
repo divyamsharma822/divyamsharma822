@@ -7,49 +7,56 @@ An all-round Full-Stack Developer focused on web, AI, backend architecture, and 
 
 ## 🚀 Live Projects
 
-### 1. BluePips — Full-Stack Course Selling Platform & Company Website
+### 1. Design Gallery — Full-Stack Curated UI Design Inspiration Platform
+A hand-picked gallery of the best UI design from across the web, with designer credits, AI-generated tags, fast search, and a self-serve sponsored slot with built-in payments and analytics.
+
+🔗 Live: [designgallery.fourangled.com](https://designgallery.fourangled.com)
+
+---
+
+### 2. BluePips — Full-Stack Course Selling Platform & Company Website
 A modern learning platform designed for selling courses online, managing educational content, and showcasing the company’s services through a clean business website.
 
 🔗 Live: [bluepips.com](https://bluepips.vercel.app/)
 
 ---
 
-### 2. SoftechbeeInfra — Business Website with Property Listing Management
+### 3. SoftechbeeInfra — Business Website with Property Listing Management
 A business-focused website with integrated real estate listing management, allowing users to explore properties while showcasing company services and infrastructure projects.
 
 🔗 Live: [softechbeeinfra.com](https://softechbeeinfra.com/)
 
 ---
 
-### 3. Almwjht — IT Company based in Dubai
+### 4. Almwjht — IT Company based in Dubai
 Originally a Dubai-based real estate firm, Almwjht transitioned into an IT company to expand into digital services and modern solutions. I built a corporate website that reflects this transformation — presenting IT services, project showcases, and technology-driven offerings with a clean, user-friendly experience.
 
 🔗 Live: [almwjht.com](https://almwjht.com/)
 
 ---
 
-### 4. OJAS HRMS — In-House HRMS Application
+### 5. OJAS HRMS — In-House HRMS Application
 A complete Human Resource Management System built for internal company operations, including employee records, attendance, task workflows, and team management.
 
 🔗 Live: [Play Store](https://play.google.com/store/apps/details?id=com.ojasspace.hrmis&hl=en-IN)
 
 ---
 
-### 5. Mainetx — Crypto MLM & Trading Platform
+### 6. Mainetx — Crypto MLM & Trading Platform
 A crypto-based platform combining MLM network management with trading features, wallet integrations, and user dashboard analytics.
 
 🔗 Live: [mainetx.com](https://mainetx.com/)
 
 ---
 
-### 6. DefiClub — Crypto MLM Platform & Lottery System
+### 7. DefiClub — Crypto MLM Platform & Lottery System
 A blockchain-powered platform featuring MLM network structure, DeFi-based rewards, and an integrated lottery system for community engagement.
 
 🔗 Live: [deficlub.finance](https://www.deficlub.finance/)
 
 ---
 
-### 7. Skayfarm Solutions — Corporate Website
+### 8. Skayfarm Solutions — Corporate Website
 A professional company website built to showcase agricultural services, business offerings, and digital presence with a modern responsive design.
 
 🔗 Live: [skayfarmsolutions.com](https://skayfarmsolutions.com/#/)
